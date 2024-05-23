@@ -1,0 +1,162 @@
+
+.head{
+    color: white;
+    background-image: url(../images/1.jpg),linear-gradient(gray , black);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: overlay;
+    
+}
+a{
+    text-align: right;
+    color: white;
+    font-weight: bold;
+    font-family: Microsoft sans serif;
+    text-decoration: none;
+}
+.box{
+    font-size: 12px;
+    text-align: right;
+    /* vertical-align: middle; */
+    background-color: black;
+    height: 32px;
+    width: 32px;
+    padding: 14px;
+    box-sizing: border-box;
+    border-style: black;
+    border-color: black;
+    border-radius: 5px  5px  5px  5px ;
+    color: azure;
+    font-family: arial;
+    font-weight: 600;
+    letter-spacing: .5px;
+    position: relative;
+}
+.box1{
+    font-size: 12px;
+    text-align: right;
+    /* vertical-align: middle; */
+    background-color:transparent;
+    height: 32px;
+    width: 32px;
+    padding: 14px;
+    box-sizing: border-box;
+    border-color: azure;
+    border-style: solid;
+    border-radius: 5px  5px  5px  5px ;
+    color: azure;
+    font-family: arial;
+    font-weight: 600;
+    letter-spacing: .5px;
+    position: relative;
+}
+
+.main{
+    background: linear-gradient(to bottom,rgb(211, 195, 195),rgb(211, 233, 111));
+    background-attachment: fixed;
+    font-family: Microsoft sans serif;
+    background-attachment: fixed;
+}
+.para{
+    font-size: 18px;
+    color: black;
+    font-family: Microsoft sans serif;
+    text-align: left;
+}
+h1{
+    
+   
+    text-align: left;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    font-family: Microsoft new Tai Lue;
+}
+.content{
+   background-image:url(../images/4.jpg) ; 
+   background-attachment:fixed;
+   background-repeat: no-repeat;
+   background-size: cover;
+   text-align: center;
+   color: white;
+   line-height: 30px;
+   font-family: Microsoft sans serif;
+}
+td.medium{
+    text-align: top;
+}
+.subbanner{
+    background:#e0ddd6;
+    font-size: 20px;
+    font-family: Microsoft new Tai Lue;
+    background-attachment: fixed;
+   
+}
+.banner{
+    font-family: Microsoft sans serif;
+}
+.banner1{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Microsoft new Tai Lue;
+    background-attachment: fixed;
+}
+.type1{
+    background-image: url(../images/b1.webp),linear-gradient(gray , black);
+    background-size: cover;
+    background-blend-mode: overlay;
+    color: white;
+    font-weight: 800;
+    font-family: Microsoft new Tai Lue;
+    
+}
+.type2{
+    background-image: url(../images/b2.webp),linear-gradient(gray , black);
+    background-size: cover;
+    background-blend-mode: overlay;
+    color: white;
+    font-weight: 800;
+    font-family: Microsoft new Tai Lue;
+   
+}
+.type3{
+    /* height: 100vh; */
+    background-image: url(../images/b3.webp),linear-gradient(gray , black);
+    background-size:cover;
+    background-blend-mode: overlay;
+    color: white;
+    font-weight: 800;
+    font-family: Microsoft new Tai Lue;
+   
+}
+.types{
+    /* background-attachment: fixed; */
+    font-family: Microsoft new Tai Lue;
+    /* height: 100vh; */
+}
+.form1{
+    text-align: center;
+    font-weight: bold;
+    color: gray;
+    font-size: 15px;
+    font-family: Microsoft new Tai Lue;
+
+}
+form{
+    text-align:justify ;
+    font-family: Microsoft new Tai Lue;
+}
+h2{
+    font-family: Microsoft new Tai Lue;
+}
+.three{
+    color: white;
+    background-image: url(../images/3.png);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    font-size: 25px;
+    font-family: arial;
+
+}
